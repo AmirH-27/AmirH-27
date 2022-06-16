@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning Spring Framwork
 - 📫 How to reach me: habibamir92@gmail.com
 
-<img allign = "left" src="https://github-readme-stats.vercel.app/api?username=AmirH-27&count_private=true&show_icons=true&theme=dark" />                  
+<img allign = "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AmirH-27&count_private=true&show_icons=true&theme=default"/>  
+<img allign = "left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AmirH-27&layout=compact" />
+
 ## Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
