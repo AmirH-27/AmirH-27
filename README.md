@@ -1,11 +1,14 @@
-# Hi there, I am Amir Habib 👋
+# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!👋
 
 - 🔭 I’m currently studing at American International University Bangladesh
 - 🌱 I’m currently learning Spring Framwork
 - 📫 How to reach me: habibamir92@gmail.com
 
-<img allign = "left" width="57%" src="https://github-readme-stats.vercel.app/api?username=AmirH-27&count_private=true&show_icons=true&theme=default"/>  
-<img allign = "left" width="57%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AmirH-27&layout=compact" />
+<img allign = "left" width="61%" src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirH-27&theme=zenburn" />
+<p float="left">
+  <img allign = "left" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmirH-27&theme=zenburn" />  
+  <img allign = "left" width="30%" src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmirH-27&theme=zenburn" />
+</p>
 
 ## Languages
 
