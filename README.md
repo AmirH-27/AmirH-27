@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Spring Framwork
 - 📫 How to reach me: habibamir92@gmail.com
 
-<img allign = "left" width="61%" src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirH-27&theme=zenburn" />
+<img allign = "left" width="70%" src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirH-27&theme=zenburn" />
 <p float="left">
-  <img allign = "left" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmirH-27&theme=zenburn" />  
-  <img allign = "left" width="30%" src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmirH-27&theme=zenburn" />
+  <img allign = "left" width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmirH-27&theme=zenburn" />  
+  <img allign = "left" width="35%" src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmirH-27&theme=zenburn" />
 </p>
 
 ## Languages
