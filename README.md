@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!👋 </h1>
+<img allign = "center" src = "https://user-images.githubusercontent.com/65022657/205988558-a001fec5-360a-42bc-b38d-262e2664d310.gif" />
 <p align="center">
 <a href="https://www.linkedin.com/in/mdamirhabib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir habib" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/habibamir92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/habibamir92" height="30" width="40" /></a>
